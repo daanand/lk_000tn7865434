@@ -1,0 +1,11 @@
+#EXTM3U
+# YouTube News Live Streams
+# Generated: 2025-09-29T18:33:05.366813
+# Using YouTube Data API v3
+
+#EXTINF:-1 tvg-id="Polimer News" tvg-name="Polimer News" tvg-logo="https://i.ytimg.com/vi/koyAlH91Yys/hqdefault_live.jpg" group-title="News",Polimer News
+https://www.youtube.com/api/manifest/hls_playlist/id/koyAlH91Yys.m3u8
+
+#EXTINF:-1 tvg-id="Puthiya Thalaimurai News" tvg-name="Puthiya Thalaimurai News" tvg-logo="https://i.ytimg.com/vi/RUzgphgBRzI/hqdefault_live.jpg" group-title="News",Puthiya Thalaimurai News
+https://www.youtube.com/api/manifest/hls_playlist/id/RUzgphgBRzI.m3u8
+
