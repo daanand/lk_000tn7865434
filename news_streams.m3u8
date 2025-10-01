@@ -4,10 +4,7 @@
 # Using YouTube Player API
 
 #EXTINF:-1 tvg-id="Polimer News" tvg-name="Polimer News Embed" tvg-logo="https://i.ytimg.com/vi/koyAlH91Yys/hqdefault_live.jpg" group-title="News",Polimer News embed
-https://www.youtube.com/watch_videos?video_ids=9M02G5c6x6w
-
-#EXTINF:-1 tvg-id="Polimer News" tvg-name="Sun News Embed" tvg-logo="https://i.ytimg.com/vi/koyAlH91Yys/hqdefault_live.jpg" group-title="News",Sun News embed
-https://www.youtube.com/embed/9M02G5c6x6w
+https://www.youtube.com/watch_videos?video_ids=9M02G5c6x6w.m3u8
 
 
 
